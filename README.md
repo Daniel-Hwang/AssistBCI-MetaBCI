@@ -42,6 +42,9 @@ AssistBCI兼容MetaBCI平台设备、算法和范式。对于在MetaBCI验证的
  8  | 优化 Brainflow 中下载数据集存放位置 | 无  
  9  | 优化 Brainflow 中 worker 中 Brainda 算法的使用 | 无 
 
+## 运行方法：
+
+运行demos/brainstim_demos/stim_test.py即可
 
 # 常见问题：
 
